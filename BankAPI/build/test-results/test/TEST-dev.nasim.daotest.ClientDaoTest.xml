@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.nasim.daotest.ClientDaoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-24T18:01:15" hostname="DESKTOP-VIVNP85" time="4.832">
+  <properties/>
+  <testcase name="create_client()" classname="dev.nasim.daotest.ClientDaoTest" time="1.323"/>
+  <testcase name="get_client_by_id()" classname="dev.nasim.daotest.ClientDaoTest" time="0.498"/>
+  <testcase name="update_client()" classname="dev.nasim.daotest.ClientDaoTest" time="0.482"/>
+  <testcase name="get_all_clients()" classname="dev.nasim.daotest.ClientDaoTest" time="2.007"/>
+  <testcase name="delete_client_by_id()" classname="dev.nasim.daotest.ClientDaoTest" time="0.518"/>
+  <system-out><![CDATA[Client{client_id=28, firstname='nasimh', lastname='heybay', username='nasim', password='789'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
